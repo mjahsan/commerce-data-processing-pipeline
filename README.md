@@ -19,7 +19,8 @@ The pipeline simulates a real-world commerce data processing workflow using full
 - Glue performs transformations using Spark SQL
 - Final aggregated output is written to the Gold layer in Parquet format
 
-Refer to: architecture/pipeline_architecture.png
+
+![commerce-data-processing-pipeline](./architecture/pipeline_architecture.png)
 
 ---
 
