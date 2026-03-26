@@ -20,7 +20,7 @@ The pipeline simulates a real-world commerce data processing workflow using full
 - Final aggregated output is written to the Gold layer in Parquet format
 
 
-![commerce-data-processing-pipeline](./architecture/pipeline_architecture.png)
+![commerce-data-processing-pipeline](./architecture/architecture.png)
 
 ---
 
